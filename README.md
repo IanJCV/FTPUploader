@@ -5,6 +5,7 @@ For the first time, run with these commands:
 .\FTPUploader.exe <PATH TO IMAGE> override <HOST ADDRESS or IP> <USERNAME> <PASSWORD>
 ```  
 Afterwards, the program will be available from the context menu when right clicking on these formats:  
+```
   .jpg  
   .png  
   .webp  
@@ -13,4 +14,6 @@ Afterwards, the program will be available from the context menu when right click
   .mp3  
   .wav  
   .ogg  
-  .
+  .docx  
+  .pdf  
+```
